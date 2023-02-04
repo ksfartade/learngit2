@@ -1,5 +1,5 @@
 class add{
     public static void main(String[] args) {
-        System.out.println("addition class ");
+        System.out.println("addition class updated ");
     }
 }
